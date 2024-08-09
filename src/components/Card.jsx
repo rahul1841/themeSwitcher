@@ -4,7 +4,7 @@ export default function Card() {
     return (
         <div className="w-full bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700">
             <a href="/">
-                <img className="p-8 rounded-t-lg" src="https://lh3.googleusercontent.com/spp/AE_ITi1xdhrHLALOuRjcMY_VubMVetKw79Y6wO7tCz2hXs3qD3Ko-4MpLnHF-lc3zx_sTKMOZn9mzAs41A7RpfoSkpeWkONctj98Y4sObFLcpoCEjIYVvPc9zRbCENjV3HRltkpo61Do93494-m9CO27xyhmA1vGhgNHw18WNtLfKbjHDtfqZt5jocK2WOonaRzgCrq6WdkOsA=s512-rw-pd-pc0x00ffffff" alt="product_image1" />
+                <img className="p-8 rounded-t-lg" src="https://www.dslr-zone.com/wp-content/uploads/2021/10/iphone-13-6-768x768.jpeg" alt="product_image1" />
             </a>
             <div className="px-5 pb-5">
                 <a href="/">
